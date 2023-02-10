@@ -1,0 +1,20 @@
+{
+  "name": "curso-js-closure-scope",
+  "version": "1.0.0",
+  "description": "Saber el alcance de las variables, ya sea global, local o en bloque",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carameloazul/curso-js-closure-scope.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carameloazul/curso-js-closure-scope/issues"
+  },
+  "homepage": "https://github.com/Carameloazul/curso-js-closure-scope#readme"
+}
